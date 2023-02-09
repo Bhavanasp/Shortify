@@ -2,7 +2,7 @@
 Keywords-based Summarizer
 <br>
 <br>
-Given a query, this tool gets relevant questions and thier answers from stackoverflow, categorizes them into different topics and generates summaries from the answers under each topic. Topics are characterized by the keywords in a set of answers. For simplicity, we are restricting to queries in the python domain.
+Given a query, this tool gets relevant questions and their answers from stackoverflow, categorizes them into different topics and generates summaries from the answers under each topic. Topics are characterized by the keywords in a set of answers. For simplicity, we are restricting to queries in the python domain.
 <br>
 <br>
 This tool is inspired from <a href="http://www.mysmu.edu/faculty/davidlo/papers/ase17-answerbot.pdf" target="_blank">AnswerBot</a>
